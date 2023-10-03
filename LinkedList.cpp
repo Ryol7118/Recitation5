@@ -11,7 +11,6 @@ LinkedList::~LinkedList()
    cout<<"network deleted"<<endl;
 }
 
-// TODO
 // Find a specific key and return a pointer to that node, else return NULL
 // Given the key this function will find the node where the key is present
 Node* LinkedList::findKey(int key) {
